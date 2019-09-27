@@ -10,3 +10,16 @@ Kopi jika ingin recode script ini
 # thanks for
 Author[wisnusaputra123]
 Group [BTC•BERMUDA-CYBER-TEAM]
+
+# installasi
+• pkg install php
+
+• pkg install git
+
+• git clone https://github.com/Mr-Akira405/spamcal
+
+•cd spamcall
+
+•php call.php
+
+# Done
