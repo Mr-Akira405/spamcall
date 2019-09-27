@@ -1,4 +1,4 @@
-# BCTFatkhi
+# peretas sukowiyono
 Follow my github
 
 # Peringatan
@@ -8,7 +8,7 @@ Nomer yang sama..
 Kopi jika ingin recode script ini
 
 # thanks for
-Author[wisnusaputra123]
+Author[wisnusaputra123&FthiRA]
 Group [BTC•BERMUDA-CYBER-TEAM]
 
 # installasi
